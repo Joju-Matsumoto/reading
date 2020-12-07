@@ -1,1 +1,8 @@
-
+国会・議会に関する研究など
+===
+- [ParlaCLARIN@LREC2018](https://www.clarin.eu/ParlaCLARIN)
+    - 国会議事録に関する学会
+- [Workshop on Creating, Using And Linking Parliamentary Corpora (ParlaCLARIN)](https://www.aclweb.org/anthology/venues/parlaclarin/)
+    - ACL の Workshop 版 ParlaCLARIN (2020-)
+- [International Journal of Computational Linguistics & Chinese Language Processing, Volume 12, Number 3, September 2007: Special Issue on Invited Papers from ISCSLP 2006](https://www.aclweb.org/anthology/volumes/O07-5/)
+    - ...
